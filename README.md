@@ -75,6 +75,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Chimdubem ]
 - Frontend Mentor - [@Chimdubem](https://www.frontendmentor.io/profile/Chimdubem)
 - Twitter - [@Chimdubemmarshal](https://www.twitter.com/Chimdubemmarshal)
